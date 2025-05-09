@@ -7,15 +7,15 @@ Este repositorio contiene un ejercicio de aprendizaje automático que abarca des
 - **clean_dataset.csv**: Conjunto de datos preprocesado y listo para su uso en los modelos.
 
 ## Requisitos
-´pip install -r requirements.txt´
+`pip install -r requirements.txt`
 
 ## Uso
 1. Clona el repositorio:
-´git clone https://github.com/dcontreras1/ml_exercise.git´
+`git clone https://github.com/dcontreras1/ml_exercise.git`
 2. Navega al directorio del proyecto:
-´cd ml_exercise´
+`cd ml_exercise`
 3. Abre los cuadernos de Jupyter para explorar y ejecutar el análisis:
-´jupyter notebook´
+`jupyter notebook`
 
 ## Conclusiones
 - Preprocesamiento de Datos: Se realizó una limpieza exhaustiva del conjunto de datos, manejando valores nulos y codificando variables categóricas.
